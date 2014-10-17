@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ost:home|Door43 (ost)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ost|d43-ost repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ost/archive/master.zip|d43-ost.zip]]
+
+**Recent Changes**
+{{changes>ns = ost}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ost|Ethnologue data]]
+
